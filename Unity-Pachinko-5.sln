@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{110110BB-67F1-F587-E052-7158D5E52B13}") = "Unity-Rollerball-5", "Assembly-CSharp.csproj", "{BD2D2B0C-B2A9-44D4-9121-58C15F4DF6AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD2D2B0C-B2A9-44D4-9121-58C15F4DF6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2D2B0C-B2A9-44D4-9121-58C15F4DF6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2D2B0C-B2A9-44D4-9121-58C15F4DF6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2D2B0C-B2A9-44D4-9121-58C15F4DF6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
